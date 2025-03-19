@@ -2,11 +2,10 @@
 
 ## Project Summary
 
-The electric vehicles (EV) market in the United States is rapidly expanding, fueled by advancements in technology, growing environmental consciousness, and government incen
-
+The goal of this project was to develop an interactive and insightful Power BI dashboard for a hospital to monitor patient health metrics, track admissions, and improve decision-making for healthcare providers.
 
 ## Objectives 
-Total Vehicles: The analysis identifies the total number of electric vehicles (EVs) in the market, encompassing Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHE
+The hospital faced challenges in analyzing patient data due to incomplete records, inconsistent data formats, and a lack of centralized tracking. This led to inefficiencies in patient care, difficulty in identifying high-risk patients, and delays in decision-making.
 
 ## Data Description 
 The dataset used for this analysis includes comprehensive information about electric vehicles in the U.S. market. Key aspects of the data include:
