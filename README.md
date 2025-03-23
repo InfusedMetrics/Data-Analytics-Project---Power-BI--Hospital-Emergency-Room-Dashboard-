@@ -15,7 +15,7 @@ Avergae Wait Time:
 Paitent Satsifaction Score:
 - Anlayse the avergae satisfaction score of patients daily to evaluate the qulaity fo service provided.
 Number of Patients Referred:
-- Provide the count of paitents that have been referred to a specific department from A&E. 
+- Provide the count of patients that have been referred to a specific department from A&E. 
 
   Dahsboard Requirements:
   - Dashboard 1 : Monthly View
