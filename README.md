@@ -50,13 +50,13 @@ Peak Admission Days/Hours:
 
 Patient Wait Time & Satisfaction:
 
-*Average Wait Time: 35.3 minutes, indicating a need for improvement in patient flow.
+* Average Wait Time: 35.3 minutes, indicating a need for improvement in patient flow.
 
-*Average Satisfaction Score: 4.99 out of 10, suggesting moderate satisfaction and opportunities to enhance patient experiences.
+* Average Satisfaction Score: 4.99 out of 10, suggesting moderate satisfaction and opportunities to enhance patient experiences.
 
 Admission Patterns:
 
-*Approximately half of all patients (4,612, 50.04%) were admitted, while the remaining (4,604, 49.95%) were treated and released.
+* Approximately half of all patients (4,612, 50.04%) were admitted, while the remaining (4,604, 49.95%) were treated and released.
 
 Departmental Referrals:
 A significant number of patients did not require a referral (5,400, 58.59%).
