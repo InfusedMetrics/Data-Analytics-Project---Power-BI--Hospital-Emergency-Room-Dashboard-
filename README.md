@@ -5,7 +5,7 @@
 The goal of this project was to develop 3 interactive and insightful Power BI dashboards for a hospital to monitor patient health metrics, track admissions, and improve decision-making for healthcare providers.
 
 ## Objectives 
-The hospital faced challenges in analyzing patient data due to incomplete records, inconsistent data formats, and a lack of centralized tracking. This led to inefficiencies in patient care, difficulty in identifying high-risk patients, and delays in decision-making. They have tasked me with creating these dashboards in order to enance operational efficiency, enable stakeholders to track and analyse,, also to provide insights which will play a role in any future decison making regarding patient management and service optimisation. 
+The hospital faced challenges in analysing patient data due to incomplete records and inconsistent data formats. This led to inefficiencies in patient care, difficulty in identifying high-risk patients, and delays in decision-making. They have tasked me with creating these dashboards in order to enhance operational efficiency, enable stakeholders to track and analyse, also providing insights which will play a role in any future decison making regarding patient management and service optimisation. 
 
 ## Business Requirements / KPI's 
 Number of patients:
@@ -28,14 +28,7 @@ Obejective: Provide a deeper insight into patient level data to enahnce detailed
 Additional Dashboard 4: Findings/Summary
 
 ## Data Sources
-*
-
-## Data Description 
-The dataset used for this analysis includes comprehensive information about electric vehicles in the U.S. market. Key aspects of the data include:
-
-Vehicle Specifications:
-Attributes such as make, model, year, and manufacturer help establish the variety and diversity of EVs in the market.
-
+* NHS UK health records - Emergency Care Data Set (ECDS)
 
 ## Data insights/Results  
 
